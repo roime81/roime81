@@ -6,3 +6,6 @@ Source : [Tableau](https://www.tableau.com/learn/articles/enterprise-data-manage
 <ins>Enterprise Data Management</ins>
 Enterprise data management (EDM) is the process of inventorying and governing your business’s data and getting your organization onboard with the process. In other words, EDM is as much about managing people as it is about managing data. Data management means making sure your people have the accurate and timely data they need, and that they follow your standards for storing quality data in a standardized, secure, and governed place. In this quick guide, we’ll answer commonly asked questions about enterprise data management and point you to some resources so you can learn more.
 Source : [Tableau](https://www.tableau.com/learn/articles/enterprise-data-management)
+
+### Some additional reading
+[Data is everywhere](https://www.linkedin.com/pulse/enterprise-data-management-everywhere-how-can-managed-jonathan-roffey/)
