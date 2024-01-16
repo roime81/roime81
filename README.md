@@ -8,7 +8,7 @@ Something about me:
 - 👯 I’m looking to collaborate on AI supply chain controls, Smart Plantation, AI in Healthcare
 - 🤔 I’m looking for help with Advanced Machine Learning, AI Factory, Data Collaboration, Hybrid Cloud
 - 💬 Ask me about Azure Cloud, AWS, MLOps, DevOps, Agile, Digitalization in Public and Private Sector, API Gateway & Middleware management, AI Factory, AIaaS
-- 📫 How to reach me: 60-013208-2468 @ roimepuniran@gmail.com
+- 📫 How to reach me: 60-13208-2468 @ roimepuniran@gmail.com
 - 😄 Pronouns: Me
 - ⚡ Fun fact: Watch anything from Matt Damon, Tom Hanks, Mark Wahlberg and Denzel Washington
 
