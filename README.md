@@ -13,4 +13,5 @@ Something about me:
 - ⚡ Fun fact: Watch anything from Matt Damon, Tom Hanks, Mark Wahlberg and Denzel Washington
 
 ### Learning glimpse
-* [MLOps](https://github.com/roime81/roime81/blob/main/MLOPS.md) 
+* [MLOps](https://github.com/roime81/roime81/blob/main/MLOPS.md)
+* [AI Factory](https://github.com/roime81/roime81/blob/main/AI%20Factory.md)
