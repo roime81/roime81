@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**roime81/roime81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Something about me:
 
 - 🔭 I’m currently working as Cloud Architect at Sime Darby Plantation Berhad.
 - 🌱 I’m currently learning MLOPS, NLPOps, Digital Transformation, DIH
