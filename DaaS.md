@@ -7,7 +7,7 @@ Credit: [MongoDB](https://www.mongodb.com/initiatives/data-as-a-service#:~:text=
 
 * [Data-as-a-Service (1)](https://builtin.com/big-data/data-as-a-service-daas)
 * [Data-as-a-Service (2)](https://www.techtarget.com/searchdatamanagement/definition/data-as-a-service)
-* [Data-as-a-Service (3)]([url](https://www.teradata.com/insights/cloud-data-analytics/data-as-a-service)https://www.teradata.com/insights/cloud-data-analytics/data-as-a-service)
+* [Data-as-a-Service (3)](https://www.teradata.com/insights/cloud-data-analytics/data-as-a-service)
 
 ### Some Reference Architecture
 
