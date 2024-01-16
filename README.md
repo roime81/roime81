@@ -12,3 +12,5 @@ Something about me:
 - 😄 Pronouns: Me
 - ⚡ Fun fact: Watch anything from Matt Damon, Tom Hanks, Mark Wahlberg and Denzel Washington
 
+### Learning glimpse
+* [MLOps](https://github.com/roime81/roime81/blob/main/MLOPS.md) 
