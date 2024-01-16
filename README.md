@@ -15,3 +15,4 @@ Something about me:
 ### Learning glimpse
 * [MLOps](https://github.com/roime81/roime81/blob/main/MLOPS.md)
 * [AI Factory](https://github.com/roime81/roime81/blob/main/AI%20Factory.md)
+* [Data-as-a-Service](https://github.com/roime81/roime81/blob/main/DaaS.md)
