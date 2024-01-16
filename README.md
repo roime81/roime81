@@ -3,7 +3,7 @@
 
 Something about me:
 
-- 🔭 I’m currently working as Cloud Architect at Sime Darby Plantation Berhad.
+- 🔭 I’m currently working as Cloud Architect.
 - 🌱 I’m currently learning MLOPS, NLPOps, Digital Transformation, DIH
 - 👯 I’m looking to collaborate on AI supply chain controls, Smart Plantation, AI in Healthcare
 - 🤔 I’m looking for help with Advanced Machine Learning, AI Factory, Data Collaboration, Hybrid Cloud
