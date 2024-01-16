@@ -16,3 +16,4 @@ Something about me:
 * [MLOps](https://github.com/roime81/roime81/blob/main/MLOPS.md)
 * [AI Factory](https://github.com/roime81/roime81/blob/main/AI%20Factory.md)
 * [Data-as-a-Service](https://github.com/roime81/roime81/blob/main/DaaS.md)
+* [Master Data Management](https://github.com/roime81/roime81/blob/main/Master%20Data%20Management.md)
