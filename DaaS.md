@@ -3,6 +3,9 @@
 _Data as a service (DaaS) is a business model where data is made available on demand and regardless of the consumer’s location or infrastructure. To enable DaaS, organizations provide cloud-based software for analyzing and managing the accessed data._
 Credit: [MongoDB](https://www.mongodb.com/initiatives/data-as-a-service#:~:text=Data%20as%20a%20service%20(DaaS)%20is%20a%20business%20model%20where,the%20consumer's%20location%20or%20infrastructure.)
 
+![image](https://github.com/roime81/roime81/assets/7858481/3d8c66db-9cea-465d-ab39-a3c7048d4678)
+
+
 ### Further Reading
 
 * [Data-as-a-Service (1)](https://builtin.com/big-data/data-as-a-service-daas)
