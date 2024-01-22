@@ -14,6 +14,10 @@ Credit: [MongoDB](https://www.mongodb.com/initiatives/data-as-a-service#:~:text=
 * End users than connected to Synapse using data endpoint created.
 * Besides SQL, data also can be stored in preferred storage e.g PostgreSQL, Blob, Data Lake.
 
+## DaaS in Azure (Step 2: Data Integration, Scanning & Mapping)
+
+![image](https://github.com/roime81/roime81/assets/7858481/b9c3b6dc-cdd8-40fc-8f68-e98a92904221)
+
 
 ### Further Reading
 
