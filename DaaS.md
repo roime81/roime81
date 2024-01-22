@@ -5,6 +5,13 @@ Credit: [MongoDB](https://www.mongodb.com/initiatives/data-as-a-service#:~:text=
 
 ![image](https://github.com/roime81/roime81/assets/7858481/3d8c66db-9cea-465d-ab39-a3c7048d4678)
 
+* To have DaaS in Azure, diagram above used to implement end-to-end data ingestion and processing. Assumed data are ingested from on-prem database server, Azure Data Factory used to establish ingestion pipelines.
+* Data will transformed from from raw to curated / processed in Data Factory. Data then saved in SQL database.  
+* Besides ADF, Databricks can be used to ingest data, using Python or R.
+* Since there are more than 1 pipelines and severals curated data stored, Synapse is used to form a DWH, that aggregates, integrates multiple curated data sources.
+* End users than connected to Synapse using data endpoint created.
+* Besides SQL, data also can be stored in preferred storage e.g PostgreSQL, Blob, Data Lake.
+
 
 ### Further Reading
 
