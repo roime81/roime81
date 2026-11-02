@@ -17,3 +17,11 @@ Something about me:
 * [AI Factory](https://github.com/roime81/roime81/blob/main/AI%20Factory.md)
 * [Data-as-a-Service](https://github.com/roime81/roime81/blob/main/DaaS.md)
 * [Master Data Management](https://github.com/roime81/roime81/blob/main/Master%20Data%20Management.md)
+
+Projects:-
+
+Galactica - https://github.com/roime81/galactica
+Randall House of API - https://github.com/roime81/randall_house_of_api
+Wanderwise - https://github.com/roime81/wanderwise
+MedVerseAI - https://github.com/roime81/MedVerseAI
+The Canvasium - https://github.com/roime81/The-Canvasium
