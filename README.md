@@ -20,8 +20,8 @@ Something about me:
 
 Projects:-
 
-Galactica - https://github.com/roime81/galactica
-Randall House of API - https://github.com/roime81/randall_house_of_api
-Wanderwise - https://github.com/roime81/wanderwise
-MedVerseAI - https://github.com/roime81/MedVerseAI
-The Canvasium - https://github.com/roime81/The-Canvasium
+1. Galactica - https://github.com/roime81/galactica
+2. Randall House of API - https://github.com/roime81/randall_house_of_api
+3. Wanderwise - https://github.com/roime81/wanderwise
+4. MedVerseAI - https://github.com/roime81/MedVerseAI
+5. The Canvasium - https://github.com/roime81/The-Canvasium
