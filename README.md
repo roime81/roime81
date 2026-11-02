@@ -25,3 +25,5 @@ Projects:-
 3. Wanderwise - https://github.com/roime81/wanderwise
 4. MedVerseAI - https://github.com/roime81/MedVerseAI
 5. The Canvasium - https://github.com/roime81/The-Canvasium
+6. GAMGEE CLOUD - https://github.com/roime81/GAMGEE-CLOUD
+7. Chef 360 - https://github.com/roime81/chief360
